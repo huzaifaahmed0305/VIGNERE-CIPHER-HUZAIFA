@@ -1,0 +1,4 @@
+﻿  cipher try.cpp
+C:\Users\huzai\source\repos\cipher try\cipher try\cipher try.cpp(21,9): warning C4101: 'length': unreferenced local variable
+C:\Users\huzai\source\repos\cipher try\cipher try\cipher try.cpp(72,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cipher try.vcxproj -> C:\Users\huzai\source\repos\cipher try\x64\Debug\cipher try.exe
